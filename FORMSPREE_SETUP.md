@@ -7,7 +7,7 @@ The public site uses the existing Formspree form `mbgloaao` for all download/req
 
 | Product | Public form page | `requestType` | Email subject |
 | --- | --- | --- | --- |
-| WorshipPPT Lite | `https://jaeseolkang.github.io/download.html` | `Lite 다운로드` | `예배PPT Lite 다운로드 신청` |
+| WorshipPPT Lite | `https://jaeseolkang.github.io/get-program/get-worshipppt-brochure.html` | `Lite 다운로드` | `예배PPT Lite 다운로드 신청` |
 | 교회회계 (Church Accounting) | `https://jaeseolkang.github.io/curch_download.html` | `교회회계 앱` | `교회회계 앱 신청` |
 
 Submissions are labeled with the `requestType` above and include the user's consent. Use the `requestType` field (or the email subject) in the Formspree Submissions view to tell the products apart.
